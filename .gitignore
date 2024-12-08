@@ -1,8 +1,10 @@
 # Ignore Python virtual environment
-.venv/
+venv/
 
 # Ignore data files
 data/
+train_data_BOW_features_500.pkl
+dataset/tweets_DM.json
 
 # Ignore logs and temporary files
 logs/
