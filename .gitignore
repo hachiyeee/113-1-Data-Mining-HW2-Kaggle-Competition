@@ -5,6 +5,8 @@ venv/
 dataset/
 train_data_BOW_features_500.pkl
 dataset/tweets_DM.json
+test.csv
+all_joy_pred.csv
 
 # Ignore logs and temporary files
 logs/
