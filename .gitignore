@@ -2,7 +2,7 @@
 venv/
 
 # Ignore data files
-data/
+dataset/
 train_data_BOW_features_500.pkl
 dataset/tweets_DM.json
 
